@@ -1,0 +1,5 @@
+D:
+cd D:\MMU\FYP\Code\Tricoire\src 
+g++ .\TSP3Opt.cpp .\Reader.cpp .\RouteUtils.cpp .\Solomon.cpp .\Solution.cpp .\Problem.cpp .\Utils.cpp .\VNS.cpp .\main.cpp
+g++ .\TSP3Opt.cpp .\Reader.cpp .\RouteUtils.cpp .\Solomon.cpp .\Solution.cpp .\Problem.cpp .\Utils.cpp .\VNS.cpp .\main.cpp -O0 -g -fno-omit-frame-pointer -gdwarf-2
+g++ .\TSP3Opt.cpp .\Reader.cpp .\RouteUtils.cpp .\Solomon.cpp .\Solution.cpp .\Problem.cpp .\Utils.cpp .\VNS.cpp .\w.cpp -o test.exe

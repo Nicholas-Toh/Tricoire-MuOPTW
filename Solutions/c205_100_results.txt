@@ -1,0 +1,12 @@
+Initial solution
+580,823.532,1361.85,16,39
+
+Final solution
+670,625.701,1632,16,39
+
+Initial solution
+570,643.332,1633.33,16,36
+
+Final solution
+590,519.241,1603.24,16,36
+

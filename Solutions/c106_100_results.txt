@@ -1,0 +1,4554 @@
+Initial solution
+560,673.686,1409.94,18,35
+
+Final solution
+590,529.573,1524.48,18,35
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+550,477.067,1737.07,15,29
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+560,477.319,1827.32,15,30
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+550,477.654,1737.65,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+570,473.025,1733.03,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+540,465.079,1649.15,15,24
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+560,478.537,1670.57,15,28
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+580,525.414,1785.41,15,27
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,528.81,1518.81,15,25
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,501.685,1581.68,15,28
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,506.711,1496.71,15,27
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,531.886,1611.89,15,30
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,485.35,1565.35,15,30
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,512.475,1502.48,15,30
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,492.642,1482.64,15,27
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,476.121,1550.91,15,32
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+510,496.488,1486.49,15,29
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,559.431,1549.43,15,28
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+520,531.9,1611.9,15,26
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+510,560.621,1550.62,15,29
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,525.61,1605.61,15,31
+
+Initial solution
+510,607.971,1507.97,15,44
+
+Final solution
+510,535.678,1539.43,15,44
+
+Initial solution
+510,607.971,1507.97,15,65
+
+Final solution
+510,477.632,1557.63,15,65
+
+Initial solution
+510,607.971,1507.97,15,42
+
+Final solution
+510,488.722,1492.47,15,42
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,475.702,1555.7,15,30
+
+Initial solution
+510,607.971,1507.97,15,49
+
+Final solution
+510,536.66,1526.66,15,49
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,575.922,1565.92,15,36
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,511.033,1501.03,15,28
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,576.956,1566.96,15,40
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,513.665,1503.66,15,34
+
+Initial solution
+510,607.971,1507.97,15,85
+
+Final solution
+510,497.977,1577.98,15,85
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,554.437,1544.44,15,36
+
+Initial solution
+510,607.971,1507.97,15,186
+
+Final solution
+510,521.753,1421.75,15,186
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,491.66,1495.41,15,34
+
+Initial solution
+510,607.971,1507.97,15,58
+
+Final solution
+510,531.904,1521.9,15,58
+
+Initial solution
+510,607.971,1507.97,15,135
+
+Final solution
+510,528.966,1518.97,15,135
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,501.685,1581.68,15,36
+
+Initial solution
+510,607.971,1507.97,15,122
+
+Final solution
+510,528.966,1518.97,15,122
+
+Initial solution
+510,607.971,1507.97,15,51
+
+Final solution
+510,510.419,1500.42,15,51
+
+Initial solution
+510,607.971,1507.97,15,90
+
+Final solution
+510,554.437,1544.44,15,90
+
+Initial solution
+510,607.971,1507.97,15,103
+
+Final solution
+510,483.908,1563.91,15,103
+
+Initial solution
+510,607.971,1507.97,15,65
+
+Final solution
+510,531.904,1521.9,15,65
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,538.616,1542.37,15,32
+
+Initial solution
+510,607.971,1507.97,15,45
+
+Final solution
+510,487.952,1491.7,15,45
+
+Initial solution
+510,607.971,1507.97,15,53
+
+Final solution
+510,559.179,1549.18,15,53
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+520,486.823,1566.82,15,28
+
+Initial solution
+510,607.971,1507.97,15,60
+
+Final solution
+510,559.179,1549.18,15,60
+
+Initial solution
+510,607.971,1507.97,15,41
+
+Final solution
+510,525.989,1529.74,15,41
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,576.956,1566.96,15,34
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+510,488.722,1492.47,15,29
+
+Initial solution
+510,607.971,1507.97,15,33
+
+Final solution
+510,539.598,1529.6,15,33
+
+Initial solution
+510,607.971,1507.97,15,43
+
+Final solution
+510,578.86,1568.86,15,43
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,575.766,1565.77,15,31
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,576.956,1566.96,15,36
+
+Initial solution
+510,607.971,1507.97,15,39
+
+Final solution
+510,531.904,1521.9,15,39
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,559.179,1549.18,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,526.03,1606.03,15,26
+
+Initial solution
+510,607.971,1507.97,15,51
+
+Final solution
+520,515.343,1595.34,15,51
+
+Initial solution
+510,607.971,1507.97,15,37
+
+Final solution
+510,482.677,1472.68,15,37
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,560.621,1550.62,15,30
+
+Initial solution
+510,607.971,1507.97,15,39
+
+Final solution
+510,512.223,1502.22,15,39
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,510.419,1500.42,15,27
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,521.105,1524.86,15,28
+
+Initial solution
+510,607.971,1507.97,15,37
+
+Final solution
+510,531.886,1611.89,15,37
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,498.744,1488.74,15,36
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,491.66,1495.41,15,27
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,508.629,1498.63,15,32
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,515.942,1415.94,15,32
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+510,485.35,1565.35,15,29
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,528.067,1518.07,15,32
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,512.475,1502.48,15,30
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,481.222,1561.22,15,30
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+520,490.139,1570.14,15,31
+
+Initial solution
+510,607.971,1507.97,15,39
+
+Final solution
+510,575.922,1565.92,15,39
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,578.86,1568.86,15,32
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,519.892,1523.64,15,31
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,485.35,1565.35,15,28
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+520,548.008,1628.01,15,30
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,511.033,1501.03,15,28
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,530.864,1610.86,15,31
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,575.922,1565.92,15,27
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,559.431,1549.43,15,28
+
+Initial solution
+510,607.971,1507.97,15,33
+
+Final solution
+510,576.956,1566.96,15,33
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,554.437,1544.44,15,32
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,511.033,1501.03,15,34
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+530,538.551,1618.55,15,31
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,488.722,1492.47,15,31
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,500.196,1490.2,15,30
+
+Initial solution
+510,607.971,1507.97,15,57
+
+Final solution
+510,507.481,1497.48,15,57
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,530.864,1610.86,15,30
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,488.722,1492.47,15,30
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,538.616,1542.37,15,31
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,492.642,1482.64,15,31
+
+Initial solution
+510,607.971,1507.97,15,50
+
+Final solution
+510,510.419,1500.42,15,50
+
+Initial solution
+510,607.971,1507.97,15,33
+
+Final solution
+520,534.677,1614.68,15,33
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,480.2,1560.2,15,30
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,512.223,1502.22,15,32
+
+Initial solution
+510,607.971,1507.97,15,44
+
+Final solution
+510,554.437,1544.44,15,44
+
+Initial solution
+510,607.971,1507.97,15,37
+
+Final solution
+510,575.579,1565.58,15,37
+
+Initial solution
+510,607.971,1507.97,15,37
+
+Final solution
+520,522.541,1512.54,15,37
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,470.706,1504.95,15,32
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+520,476.033,1556.03,15,31
+
+Initial solution
+510,607.971,1507.97,15,39
+
+Final solution
+510,511.033,1501.03,15,39
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,538.616,1542.37,15,31
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,561.015,1461.02,15,36
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,554.437,1544.44,15,35
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,524.53,1604.53,15,30
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,586.486,1486.49,15,40
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,531.904,1521.9,15,35
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,472.932,1552.93,15,31
+
+Initial solution
+510,607.971,1507.97,15,33
+
+Final solution
+510,518.108,1508.11,15,33
+
+Initial solution
+510,607.971,1507.97,15,47
+
+Final solution
+510,485.35,1565.35,15,47
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+520,532.339,1612.34,15,31
+
+Initial solution
+510,607.971,1507.97,15,43
+
+Final solution
+510,557.375,1547.38,15,43
+
+Initial solution
+510,607.971,1507.97,15,51
+
+Final solution
+510,575.922,1565.92,15,51
+
+Initial solution
+510,607.971,1507.97,15,38
+
+Final solution
+510,491.66,1495.41,15,38
+
+Initial solution
+510,607.971,1507.97,15,42
+
+Final solution
+520,488.826,1568.83,15,42
+
+Initial solution
+510,607.971,1507.97,15,43
+
+Final solution
+510,490.779,1570.78,15,43
+
+Initial solution
+510,607.971,1507.97,15,38
+
+Final solution
+510,488.722,1492.47,15,38
+
+Initial solution
+510,607.971,1507.97,15,46
+
+Final solution
+510,544.933,1624.93,15,46
+
+Initial solution
+510,607.971,1507.97,15,38
+
+Final solution
+510,535.678,1539.43,15,38
+
+Initial solution
+510,607.971,1507.97,15,41
+
+Final solution
+510,507.481,1497.48,15,41
+
+Initial solution
+510,607.971,1507.97,15,50
+
+Final solution
+520,539.747,1543.5,15,50
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,532.306,1612.31,15,35
+
+Initial solution
+510,607.971,1507.97,15,38
+
+Final solution
+510,488.934,1478.93,15,38
+
+Initial solution
+510,607.971,1507.97,15,41
+
+Final solution
+510,554.437,1544.44,15,41
+
+Initial solution
+510,607.971,1507.97,15,38
+
+Final solution
+510,512.223,1502.22,15,38
+
+Initial solution
+510,607.971,1507.97,15,42
+
+Final solution
+510,547.786,1627.79,15,42
+
+Initial solution
+510,607.971,1507.97,15,42
+
+Final solution
+510,485.35,1565.35,15,42
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,489.704,1479.7,15,34
+
+Initial solution
+510,607.971,1507.97,15,49
+
+Final solution
+510,520.771,1434.52,15,49
+
+Initial solution
+510,607.971,1507.97,15,39
+
+Final solution
+510,535.678,1539.43,15,39
+
+Initial solution
+510,607.971,1507.97,15,46
+
+Final solution
+510,538.616,1542.37,15,46
+
+Initial solution
+510,607.971,1507.97,15,44
+
+Final solution
+510,535.89,1525.89,15,44
+
+Initial solution
+510,607.971,1507.97,15,42
+
+Final solution
+510,528.966,1518.97,15,42
+
+Initial solution
+510,607.971,1507.97,15,44
+
+Final solution
+520,493.773,1483.77,15,44
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,484.93,1564.93,15,36
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,479.074,1559.07,15,30
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,493.98,1483.98,15,36
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,479.78,1559.78,15,35
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,481.222,1561.22,15,36
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,531.886,1611.89,15,36
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,510.419,1500.42,15,35
+
+Initial solution
+510,607.971,1507.97,15,43
+
+Final solution
+510,544.859,1534.86,15,43
+
+Initial solution
+510,607.971,1507.97,15,38
+
+Final solution
+510,480.2,1560.2,15,38
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,488.934,1478.93,15,35
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,560.621,1550.62,15,36
+
+Initial solution
+510,607.971,1507.97,15,38
+
+Final solution
+510,535.678,1539.43,15,38
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,554.437,1544.44,15,40
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,586.486,1486.49,15,36
+
+Initial solution
+510,607.971,1507.97,15,46
+
+Final solution
+520,559.022,1549.02,15,46
+
+Initial solution
+510,607.971,1507.97,15,41
+
+Final solution
+510,530.261,1610.26,15,41
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,559.431,1549.43,15,34
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,554.437,1544.44,15,36
+
+Initial solution
+510,607.971,1507.97,15,68
+
+Final solution
+510,538.616,1542.37,15,68
+
+Initial solution
+510,607.971,1507.97,15,53
+
+Final solution
+520,561.278,1475.35,15,53
+
+Initial solution
+510,607.971,1507.97,15,41
+
+Final solution
+510,510.419,1500.42,15,41
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,527.156,1607.16,15,31
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,497.977,1577.98,15,40
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,553.667,1543.67,15,34
+
+Initial solution
+510,607.971,1507.97,15,37
+
+Final solution
+520,556.084,1546.08,15,37
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,491.462,1571.46,15,36
+
+Initial solution
+510,607.971,1507.97,15,37
+
+Final solution
+510,483.908,1563.91,15,37
+
+Initial solution
+510,607.971,1507.97,15,42
+
+Final solution
+510,530,1520,15,42
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,488.934,1478.93,15,34
+
+Initial solution
+510,607.971,1507.97,15,37
+
+Final solution
+510,512.475,1502.48,15,37
+
+Initial solution
+510,607.971,1507.97,15,48
+
+Final solution
+520,509.931,1499.93,15,48
+
+Initial solution
+510,607.971,1507.97,15,42
+
+Final solution
+510,578.86,1568.86,15,42
+
+Initial solution
+510,607.971,1507.97,15,37
+
+Final solution
+510,483.908,1563.91,15,37
+
+Initial solution
+510,607.971,1507.97,15,42
+
+Final solution
+510,511.033,1501.03,15,42
+
+Initial solution
+510,607.971,1507.97,15,42
+
+Final solution
+520,489.157,1582.91,15,42
+
+Initial solution
+510,607.971,1507.97,15,48
+
+Final solution
+510,544.479,1444.48,15,48
+
+Initial solution
+510,607.971,1507.97,15,51
+
+Final solution
+510,506.06,1443.81,15,51
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,506.06,1443.81,15,35
+
+Initial solution
+510,607.971,1507.97,15,41
+
+Final solution
+510,554.437,1544.44,15,41
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,531.904,1521.9,15,35
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,488.722,1492.47,15,40
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,474.838,1554.84,15,36
+
+Initial solution
+510,607.971,1507.97,15,37
+
+Final solution
+520,476.033,1556.03,15,37
+
+Initial solution
+510,607.971,1507.97,15,41
+
+Final solution
+510,526.627,1606.63,15,41
+
+Initial solution
+510,607.971,1507.97,15,50
+
+Final solution
+510,524.588,1604.59,15,50
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,507.481,1497.48,15,36
+
+Initial solution
+510,607.971,1507.97,15,38
+
+Final solution
+510,575.766,1565.77,15,38
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,507.481,1497.48,15,40
+
+Initial solution
+510,607.971,1507.97,15,38
+
+Final solution
+510,491.462,1571.46,15,38
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+520,508.123,1588.12,15,31
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,507.481,1497.48,15,40
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,489.704,1479.7,15,35
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,575.922,1565.92,15,40
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,483.908,1563.91,15,35
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,512.395,1502.39,15,31
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,491.66,1495.41,15,40
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,513.665,1503.66,15,40
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+520,485.451,1489.52,15,34
+
+Initial solution
+510,607.971,1507.97,15,38
+
+Final solution
+520,521.933,1601.93,15,38
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,559.431,1549.43,15,35
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,530.864,1610.86,15,35
+
+Initial solution
+510,607.971,1507.97,15,33
+
+Final solution
+520,485.859,1565.86,15,33
+
+Initial solution
+510,607.971,1507.97,15,42
+
+Final solution
+510,539.53,1439.53,15,42
+
+Initial solution
+510,607.971,1507.97,15,45
+
+Final solution
+510,507.481,1497.48,15,45
+
+Initial solution
+510,607.971,1507.97,15,42
+
+Final solution
+520,534.677,1614.68,15,42
+
+Initial solution
+510,607.971,1507.97,15,42
+
+Final solution
+510,488.722,1492.47,15,42
+
+Initial solution
+510,607.971,1507.97,15,51
+
+Final solution
+510,483.908,1563.91,15,51
+
+Initial solution
+510,607.971,1507.97,15,42
+
+Final solution
+510,555.585,1545.59,15,42
+
+Initial solution
+510,607.971,1507.97,15,37
+
+Final solution
+510,512.475,1502.48,15,37
+
+Initial solution
+510,607.971,1507.97,15,38
+
+Final solution
+510,530.864,1610.86,15,38
+
+Initial solution
+510,607.971,1507.97,15,38
+
+Final solution
+510,535.678,1539.43,15,38
+
+Initial solution
+510,607.971,1507.97,15,41
+
+Final solution
+510,505.782,1495.78,15,41
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,512.475,1502.48,15,34
+
+Initial solution
+510,607.971,1507.97,15,42
+
+Final solution
+510,539.53,1439.53,15,42
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,578.86,1568.86,15,36
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,557.375,1547.38,15,34
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,510.419,1500.42,15,40
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,607.971,1507.97,15,35
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,539.53,1439.53,15,34
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,512.223,1502.22,15,35
+
+Initial solution
+510,607.971,1507.97,15,41
+
+Final solution
+520,522.989,1602.99,15,41
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,507.481,1497.48,15,40
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,515.942,1415.94,15,40
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,533.36,1462.94,15,40
+
+Initial solution
+510,607.971,1507.97,15,37
+
+Final solution
+510,512.223,1502.22,15,37
+
+Initial solution
+510,607.971,1507.97,15,39
+
+Final solution
+510,575.922,1565.92,15,39
+
+Initial solution
+510,607.971,1507.97,15,42
+
+Final solution
+510,560.621,1550.62,15,42
+
+Initial solution
+510,607.971,1507.97,15,80
+
+Final solution
+510,578.86,1568.86,15,80
+
+Initial solution
+510,607.971,1507.97,15,49
+
+Final solution
+510,488.934,1478.93,15,49
+
+Initial solution
+510,607.971,1507.97,15,41
+
+Final solution
+510,575.922,1565.92,15,41
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,575.922,1565.92,15,40
+
+Initial solution
+510,607.971,1507.97,15,44
+
+Final solution
+510,528.966,1518.97,15,44
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,480.749,1470.75,15,34
+
+Initial solution
+510,607.971,1507.97,15,33
+
+Final solution
+510,489.704,1479.7,15,33
+
+Initial solution
+510,607.971,1507.97,15,33
+
+Final solution
+510,528.966,1518.97,15,33
+
+Initial solution
+510,607.971,1507.97,15,38
+
+Final solution
+510,575.922,1565.92,15,38
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,539.598,1529.6,15,35
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,511.033,1501.03,15,34
+
+Initial solution
+510,607.971,1507.97,15,102
+
+Final solution
+510,498.327,1578.33,15,102
+
+Initial solution
+510,607.971,1507.97,15,39
+
+Final solution
+510,519.777,1509.78,15,39
+
+Initial solution
+510,607.971,1507.97,15,47
+
+Final solution
+510,575.922,1565.92,15,47
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,561.015,1461.02,15,35
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,534.908,1538.66,15,35
+
+Initial solution
+510,607.971,1507.97,15,33
+
+Final solution
+510,554.437,1544.44,15,33
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,528.81,1518.81,15,32
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,528.966,1518.97,15,30
+
+Initial solution
+510,607.971,1507.97,15,37
+
+Final solution
+510,506.711,1496.71,15,37
+
+Initial solution
+510,607.971,1507.97,15,33
+
+Final solution
+510,560.621,1550.62,15,33
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,510.419,1500.42,15,32
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,485.35,1565.35,15,35
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,539.53,1439.53,15,30
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+520,537.763,1527.76,15,27
+
+Initial solution
+510,607.971,1507.97,15,46
+
+Final solution
+510,561.015,1461.02,15,46
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,477.632,1557.63,15,28
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,513.665,1503.66,15,27
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+510,576.956,1566.96,15,29
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,511.033,1501.03,15,31
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,548.641,1628.64,15,24
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,475.892,1465.89,15,28
+
+Initial solution
+510,607.971,1507.97,15,42
+
+Final solution
+510,509.204,1409.2,15,42
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,492.791,1496.54,15,25
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,487.952,1491.7,15,30
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,487.952,1491.7,15,30
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,484.93,1564.93,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,575.766,1565.77,15,26
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,575.922,1565.92,15,32
+
+Initial solution
+510,607.971,1507.97,15,39
+
+Final solution
+510,535.678,1539.43,15,39
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+520,540.987,1544.74,15,31
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+510,507.481,1497.48,15,29
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,578.86,1568.86,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,492.642,1482.64,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,528.598,1608.6,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,553.016,1490.76,15,25
+
+Initial solution
+510,607.971,1507.97,15,37
+
+Final solution
+510,560.621,1550.62,15,37
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,506.968,1497.5,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+530,559.525,1639.52,15,25
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,578.86,1568.86,15,32
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,511.033,1501.03,15,26
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+520,535.679,1615.68,15,28
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,539.53,1439.53,15,34
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,493.2,1483.2,15,25
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,512.223,1502.22,15,27
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,531.904,1521.9,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,560.621,1550.62,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,544.214,1534.21,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+520,494.031,1497.78,15,24
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,554.437,1544.44,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,553.016,1490.76,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,560.621,1550.62,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,557.989,1547.99,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,561.015,1461.02,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,501.685,1581.69,15,25
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,530,1520,15,27
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,559.431,1549.43,15,27
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,492.749,1572.75,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,578.86,1568.86,15,25
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+520,498.842,1578.84,15,29
+
+Initial solution
+510,607.971,1507.97,15,47
+
+Final solution
+510,522.754,1602.75,15,47
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,488.722,1492.47,15,27
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+520,475.38,1569.13,15,26
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,491.66,1495.41,15,24
+
+Initial solution
+510,607.971,1507.97,15,81
+
+Final solution
+510,528.966,1518.97,15,81
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,485.35,1565.35,15,28
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,527.156,1607.16,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,531.904,1521.9,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,488.722,1492.47,15,24
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+520,529.463,1609.46,15,23
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,512.223,1502.22,15,26
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,528.966,1518.97,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,532.306,1612.31,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,575.922,1565.92,15,24
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,488.722,1492.47,15,23
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,531.904,1521.9,15,23
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,548.641,1628.64,15,31
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,513.665,1503.67,15,27
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,578.86,1568.86,15,23
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,534.908,1538.66,15,24
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,557.375,1547.38,15,23
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,536.66,1526.66,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,515.343,1595.34,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,518.323,1612.39,15,25
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,531.904,1521.9,15,23
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,528.966,1518.97,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,576.263,1476.26,15,24
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,521.753,1421.75,15,27
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,501.471,1505.54,15,26
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,554.355,1544.36,15,28
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,557.989,1547.99,15,27
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,492.554,1490.57,15,31
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,560.621,1550.62,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,489.825,1493.58,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,557.989,1547.99,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,561.015,1461.02,15,24
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,507.481,1497.48,15,32
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,548.641,1628.64,15,25
+
+Initial solution
+510,607.971,1507.97,15,53
+
+Final solution
+520,530.069,1520.07,15,53
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,554.437,1544.44,15,28
+
+Initial solution
+510,607.971,1507.97,15,45
+
+Final solution
+510,483.908,1563.91,15,45
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,528.81,1518.81,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,531.904,1521.9,15,24
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,472.431,1512.22,15,26
+
+Initial solution
+510,607.971,1507.97,15,63
+
+Final solution
+520,483.515,1563.52,15,63
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,567.727,1481.48,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,554.355,1544.36,15,26
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,507.481,1497.48,15,30
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,535.678,1539.43,15,26
+
+Initial solution
+510,607.971,1507.97,15,38
+
+Final solution
+510,510.419,1500.42,15,38
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,512.475,1502.48,15,25
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,539.807,1529.81,15,27
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+520,530.667,1520.67,15,23
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,528.81,1518.81,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,491.66,1495.41,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,544.933,1624.93,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,528.966,1518.97,15,26
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,497.992,1577.99,15,31
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+510,488.722,1492.47,15,29
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,528.966,1518.97,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,555.86,1545.86,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,528.966,1518.97,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,538.616,1542.37,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,486.107,1476.11,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,479.074,1559.07,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,488.722,1492.47,15,25
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,538.616,1542.37,15,28
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,559.179,1549.18,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,530.667,1520.67,15,25
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,497.977,1577.98,15,23
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,523.077,1597.86,15,27
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,507.481,1497.48,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,501.685,1581.69,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,560.621,1550.62,15,26
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,561.349,1551.35,15,27
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,565.543,1555.54,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,575.922,1565.92,15,26
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+520,487.721,1567.72,15,24
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,559.431,1549.43,15,23
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,487.952,1491.7,15,24
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,520.771,1434.52,15,26
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,507.481,1497.48,15,23
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,575.922,1565.92,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,512.475,1502.47,15,24
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+510,538.616,1542.37,15,29
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,513.665,1503.67,15,25
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,510.419,1500.42,15,27
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,548.641,1628.64,15,25
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,531.904,1521.9,15,35
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,560.621,1550.62,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,548.641,1628.64,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,512.475,1502.47,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,528.966,1518.97,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,487.952,1491.7,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,557.375,1547.38,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+530,492.969,1662.97,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,507.481,1497.48,15,24
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,556.53,1546.53,15,27
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,512.223,1502.22,15,26
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,525.61,1605.61,15,24
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,575.922,1565.92,15,31
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,575.922,1565.92,15,26
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,488.722,1492.47,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,528.966,1518.97,15,25
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+510,538.621,1618.62,15,29
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+530,528.012,1608.01,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,535.89,1525.89,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,510.419,1500.42,15,26
+
+Initial solution
+510,607.971,1507.97,15,73
+
+Final solution
+510,535.678,1539.43,15,73
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,492.642,1482.64,15,30
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,561.208,1461.21,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,471.839,1469.85,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,530.864,1610.86,15,24
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,539.53,1439.53,15,35
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+530,518.37,1612.12,15,23
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,508.881,1498.88,15,26
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,488.934,1478.93,15,27
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,531.904,1521.9,15,25
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,512.475,1502.47,15,27
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,539.53,1439.53,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,512.223,1502.22,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+520,487.301,1567.3,15,26
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,492.642,1482.64,15,24
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,491.66,1495.41,15,27
+
+Initial solution
+510,607.971,1507.97,15,94
+
+Final solution
+510,532.306,1612.31,15,94
+
+Initial solution
+510,607.971,1507.97,15,33
+
+Final solution
+510,528.966,1518.97,15,33
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,531.904,1521.9,15,32
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,567.727,1481.48,15,32
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,547.958,1627.96,15,34
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,474.838,1554.84,15,31
+
+Initial solution
+510,607.971,1507.97,15,41
+
+Final solution
+510,526.03,1606.03,15,41
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,512.475,1502.47,15,35
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,506.711,1496.71,15,31
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,492.642,1482.64,15,35
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+520,567.024,1557.02,15,29
+
+Initial solution
+510,607.971,1507.97,15,38
+
+Final solution
+510,488.722,1492.47,15,38
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,474.324,1554.32,15,40
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,535.678,1539.43,15,34
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,578.86,1568.86,15,32
+
+Initial solution
+510,607.971,1507.97,15,38
+
+Final solution
+510,517.177,1430.93,15,38
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+520,488.826,1568.83,15,34
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+520,565.901,1645.9,15,32
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,507.481,1497.48,15,36
+
+Initial solution
+510,607.971,1507.97,15,38
+
+Final solution
+530,594.979,1584.98,15,38
+
+Initial solution
+510,607.971,1507.97,15,37
+
+Final solution
+510,539.598,1529.6,15,37
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,483.908,1563.91,15,35
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,475.702,1555.7,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,465.207,1545.21,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,531.886,1611.89,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,531.904,1521.9,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,531.904,1521.9,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,487.952,1491.7,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,507.481,1497.48,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,528.81,1518.81,15,26
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,513.665,1503.67,15,30
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,570.683,1582.72,15,27
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,539.53,1439.53,15,24
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,520.771,1434.52,15,27
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,528.966,1518.97,15,24
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,528.966,1518.97,15,26
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,526.276,1606.28,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,578.86,1568.86,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,575.922,1565.92,15,24
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,530.009,1610.01,15,23
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,539.598,1529.6,15,23
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,553.667,1543.67,15,26
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,484.93,1564.93,15,24
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,559.431,1549.43,15,30
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,529.307,1429.31,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,560.621,1550.62,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,561.015,1461.02,15,26
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,531.904,1521.9,15,23
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,593.05,1493.05,15,23
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,531.904,1521.9,15,24
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+510,575.152,1565.15,15,29
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,576.956,1566.96,15,24
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,525.809,1425.81,15,26
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,507.481,1497.48,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,512.475,1502.48,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,560.621,1550.62,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,557.375,1547.38,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,539.598,1529.6,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,531.904,1521.9,15,24
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,559.431,1549.43,15,31
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,488.722,1492.47,15,24
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,576.956,1566.96,15,23
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,528.81,1518.81,15,23
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,511.033,1501.03,15,24
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,578.86,1568.86,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,512.475,1502.48,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,484.93,1564.93,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+520,522.989,1602.99,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,501.641,1581.64,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,510.419,1500.42,15,24
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,506.711,1496.71,15,31
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,492.749,1572.75,15,25
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,607.971,1507.97,15,32
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,567.727,1481.48,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,528.81,1518.81,15,24
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,477.212,1557.21,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,576.956,1566.96,15,26
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,485.35,1565.35,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,531.904,1521.9,15,24
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,560.621,1550.62,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,482.585,1472.59,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,531.904,1521.9,15,26
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,553.667,1543.67,15,27
+
+Initial solution
+510,607.971,1507.97,15,59
+
+Final solution
+510,512.475,1502.48,15,59
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,535.678,1539.43,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,559.179,1549.18,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+520,531.437,1521.44,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,530.864,1610.86,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,488.934,1478.93,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,575.152,1565.15,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,547.296,1447.3,15,24
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,481.642,1561.64,15,27
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,507.481,1497.48,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,575.922,1565.92,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,531.886,1611.89,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,534.677,1614.68,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,559.179,1549.18,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,575.922,1565.92,15,26
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+520,476.829,1556.83,15,28
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,513.665,1503.67,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,565.699,1555.7,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,502.155,1505.9,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+520,496.387,1536.18,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,578.86,1568.86,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,559.431,1549.43,15,24
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,560.621,1550.62,15,23
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,578.86,1568.86,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,507.481,1497.48,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,538.616,1542.37,15,25
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,513.665,1503.66,15,23
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,477.632,1557.63,15,23
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,489.704,1479.7,15,23
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,480.2,1560.2,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,507.481,1497.48,15,24
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+510,512.475,1502.47,15,29
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,538.616,1542.37,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,507.481,1497.48,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,481.642,1561.64,15,24
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,497.977,1577.98,15,27
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,536.66,1526.66,15,32
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,607.971,1507.97,15,30
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,511.033,1501.03,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,483.687,1473.69,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,575.766,1565.77,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,510.419,1500.42,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,491.66,1495.41,15,25
+
+Initial solution
+510,607.971,1507.97,15,50
+
+Final solution
+510,557.375,1547.38,15,50
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,485.35,1565.35,15,26
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,510.419,1500.42,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,553.667,1543.67,15,24
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,578.86,1568.86,15,27
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,528.966,1518.97,15,23
+
+Initial solution
+510,607.971,1507.97,15,37
+
+Final solution
+510,532.306,1612.31,15,37
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,567.727,1481.48,15,27
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,494.031,1497.78,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+520,556.517,1546.52,15,24
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,562.898,1462.9,15,32
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,488.934,1478.93,15,23
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+520,476.033,1556.03,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,578.86,1568.86,15,24
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,506.711,1496.71,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,528.966,1518.97,15,26
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,553.667,1543.67,15,27
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,536.66,1526.66,15,40
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,507.481,1497.48,15,25
+
+Initial solution
+510,607.971,1507.97,15,33
+
+Final solution
+510,528.966,1518.97,15,33
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,559.431,1549.43,15,24
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,531.904,1521.9,15,34
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+520,540.987,1544.74,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,512.223,1502.22,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,535.678,1539.43,15,25
+
+Initial solution
+510,607.971,1507.97,15,65
+
+Final solution
+510,481.657,1561.66,15,65
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,488.934,1478.93,15,24
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,530,1520,15,35
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+520,556.117,1546.12,15,24
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+520,476.829,1556.83,15,27
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,530.643,1520.64,15,32
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,578.86,1568.86,15,28
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+510,472.379,1552.38,15,29
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,578.86,1568.86,15,24
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,526.627,1606.63,15,30
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,506.711,1496.71,15,32
+
+Initial solution
+510,607.971,1507.97,15,39
+
+Final solution
+510,580.174,1480.17,15,39
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,506.711,1496.71,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,481.222,1561.22,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,484.93,1564.93,15,24
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+510,531.886,1611.89,15,29
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,583.692,1483.69,15,27
+
+Initial solution
+510,607.971,1507.97,15,37
+
+Final solution
+510,488.722,1492.47,15,37
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,520.771,1434.52,15,23
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,534.908,1538.66,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,575.922,1565.92,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,493.425,1437.04,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,599.878,1589.88,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,522.754,1602.75,15,24
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,535.678,1539.43,15,23
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,528.966,1518.97,15,25
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,530.864,1610.86,15,23
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,539.598,1529.6,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,531.904,1521.9,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,528.966,1518.97,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,506.711,1496.71,15,24
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,511.033,1501.03,15,27
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,554.437,1544.44,15,36
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,528.81,1518.81,15,24
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,487.952,1491.7,15,26
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+510,557.802,1547.8,15,29
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,528.598,1608.6,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,528.178,1608.18,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,481.222,1561.22,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,501.685,1581.69,15,26
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+520,603.04,1593.04,15,23
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,513.665,1503.66,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,511.033,1501.03,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,532.306,1612.31,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,492.908,1482.91,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,482.585,1472.59,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+520,540.987,1544.74,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,535.678,1539.43,15,25
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,544.214,1534.21,15,27
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,488.934,1478.93,15,25
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,534.908,1538.66,15,31
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,548.641,1628.64,15,25
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,492.642,1482.64,15,23
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,476.033,1556.03,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,530.069,1520.07,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,568.637,1558.64,15,24
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,528.81,1518.81,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,528.966,1518.97,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+530,492.935,1572.94,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,534.908,1538.66,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,476.829,1556.83,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,550.512,1540.51,15,25
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,512.223,1502.22,15,23
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+520,489.825,1493.58,15,24
+
+Initial solution
+510,607.971,1507.97,15,50
+
+Final solution
+510,532.142,1612.14,15,50
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,484.82,1564.82,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+520,485.509,1565.51,15,24
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,536.66,1526.66,15,27
+
+Initial solution
+510,607.971,1507.97,15,41
+
+Final solution
+510,528.598,1608.6,15,41
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,538.616,1542.37,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,559.431,1549.43,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,489.704,1479.7,15,24
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,488.722,1492.47,15,32
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,511.033,1501.03,15,23
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+520,538.617,1618.62,15,26
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,559.179,1549.18,15,31
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,559.179,1549.18,15,27
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,575.922,1565.92,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,488.722,1492.47,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,551.367,1451.37,15,24
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,528.966,1518.97,15,35
+
+Initial solution
+510,607.971,1507.97,15,54
+
+Final solution
+510,513.665,1503.66,15,54
+
+Initial solution
+510,607.971,1507.97,15,79
+
+Final solution
+510,512.475,1502.47,15,79
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,588.287,1592.36,15,25
+
+Initial solution
+510,607.971,1507.97,15,83
+
+Final solution
+510,575.766,1565.77,15,83
+
+Initial solution
+510,607.971,1507.97,15,54
+
+Final solution
+510,575.922,1565.92,15,54
+
+Initial solution
+510,607.971,1507.97,15,50
+
+Final solution
+510,538.616,1542.37,15,50
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,531.904,1521.9,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,533.939,1613.94,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,578.86,1568.86,15,25
+
+Initial solution
+510,607.971,1507.97,15,47
+
+Final solution
+510,586.486,1486.49,15,47
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,607.971,1507.97,15,27
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,491.66,1495.41,15,26
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,522.959,1512.96,15,24
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+520,599.878,1589.88,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,528.966,1518.97,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,535.678,1539.43,15,24
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,531.904,1521.9,15,31
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,483.908,1563.91,15,27
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,500.164,1543.44,15,24
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,565.115,1465.12,15,27
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+520,487.266,1567.27,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,531.904,1521.9,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,489.596,1569.6,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,567.727,1481.48,15,24
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+510,512.475,1502.48,15,30
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,483.381,1473.38,15,25
+
+Initial solution
+510,607.971,1507.97,15,31
+
+Final solution
+510,507.481,1497.48,15,31
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+510,506.711,1496.71,15,29
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,488.722,1492.47,15,25
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,512.475,1502.48,15,27
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,561.015,1461.02,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,528.966,1518.97,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,510.419,1500.42,15,26
+
+Initial solution
+510,607.971,1507.97,15,36
+
+Final solution
+510,554.437,1544.44,15,36
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,506.294,1406.29,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,535.678,1539.43,15,25
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+520,543.761,1623.76,15,23
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,530,1520,15,28
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,497.977,1577.98,15,28
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,495.845,1575.85,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,575.922,1565.92,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,521.773,1511.77,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,542.365,1622.37,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,532.306,1612.31,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,559.431,1549.43,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,587.254,1577.25,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,491.66,1495.41,15,26
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,512.223,1502.22,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,510.846,1500.85,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,561.015,1461.02,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,575.766,1565.77,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,553.667,1543.67,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,481.642,1561.64,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,485.35,1565.35,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,559.179,1549.18,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,528.966,1518.97,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,531.904,1521.9,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,536.781,1540.53,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,531.904,1521.9,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,480.2,1560.2,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,535.678,1539.43,15,25
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,483.908,1563.91,15,28
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,512.223,1502.22,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,528.966,1518.97,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+520,536.781,1540.53,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,528.966,1518.97,15,25
+
+Initial solution
+510,607.971,1507.97,15,23
+
+Final solution
+510,531.904,1521.9,15,23
+
+Initial solution
+510,607.971,1507.97,15,35
+
+Final solution
+510,528.067,1518.07,15,35
+
+Initial solution
+510,607.971,1507.97,15,30
+
+Final solution
+520,476.033,1556.03,15,30
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,539.598,1529.6,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,548.641,1628.64,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,538.616,1542.37,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,522.256,1512.26,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,578.86,1568.86,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+520,491.661,1571.66,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,535.373,1615.37,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,560.621,1550.62,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,603.307,1503.31,15,24
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,492.642,1482.64,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,560.621,1550.62,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,471.378,1504.81,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,544.258,1534.26,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,536.66,1526.66,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,481.642,1561.64,15,24
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,560.621,1550.62,15,26
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+520,512.678,1516.43,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+520,544.284,1624.28,15,24
+
+Initial solution
+510,607.971,1507.97,15,34
+
+Final solution
+510,527.827,1531.9,15,34
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,481.642,1561.64,15,26
+
+Initial solution
+510,607.971,1507.97,15,29
+
+Final solution
+510,510.419,1500.42,15,29
+
+Initial solution
+510,607.971,1507.97,15,27
+
+Final solution
+510,554.437,1544.44,15,27
+
+Initial solution
+510,607.971,1507.97,15,40
+
+Final solution
+510,501.685,1581.69,15,40
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,488.722,1492.47,15,26
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,513.665,1503.67,15,26
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,528.81,1518.81,15,24
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,510.419,1500.42,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,507.481,1497.48,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,559.431,1549.43,15,26
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,468.07,1562.14,15,25
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,485.35,1565.35,15,25
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+520,492.534,1572.53,15,24
+
+Initial solution
+510,607.971,1507.97,15,28
+
+Final solution
+510,538.636,1618.64,15,28
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,492.642,1482.64,15,25
+
+Initial solution
+510,607.971,1507.97,15,32
+
+Final solution
+510,528.966,1518.97,15,32
+
+Initial solution
+510,607.971,1507.97,15,25
+
+Final solution
+510,520.771,1434.52,15,25
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+520,521.206,1524.96,15,26
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,528.966,1518.97,15,24
+
+Initial solution
+510,607.971,1507.97,15,26
+
+Final solution
+510,487.952,1491.7,15,26
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,501.685,1581.69,15,24
+
+Initial solution
+510,607.971,1507.97,15,24
+
+Final solution
+510,575.766,1565.77,15,24
+

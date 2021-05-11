@@ -1,0 +1,24 @@
+Initial solution
+470,726.028,1482.51,17,32
+
+Final solution
+520,549.922,1421.78,17,32
+
+Initial solution
+450,684.587,1584.59,15,28
+
+Final solution
+550,467.598,1547.6,15,28
+
+Initial solution
+450,684.587,1584.59,15,29
+
+Final solution
+500,528.72,1428.72,15,29
+
+Initial solution
+450,684.587,1584.59,15,32
+
+Final solution
+520,494.445,1484.44,15,32
+
