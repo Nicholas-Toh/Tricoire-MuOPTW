@@ -1,9 +1,9 @@
 #ifndef TSP3OPT_H
 #define TSP3OPT_H
 
-#include "..\include\Problem.h"
-#include "..\include\Solution.h"
-#include "..\include\Solomon.h"
+#include "Problem.h"
+#include "Solution.h"
+#include "Solomon.h"
 #include <vector>
 #include <tuple>
 

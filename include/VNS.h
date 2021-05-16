@@ -1,9 +1,9 @@
 #ifndef VNS_H
 #define VNS_H
-#include "..\include\TSP3Opt.h"
-#include "..\include\Solomon.h"
-#include "..\include\Problem.h"
-#include "..\include\Solution.h"
+#include "TSP3Opt.h"
+#include "Solomon.h"
+#include "Problem.h"
+#include "Solution.h"
 
 const int CROSS_EXCHANGE_START = 1;
 const int OPT_EXCHANGE_1_START = 9;
