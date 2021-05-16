@@ -1,6 +1,6 @@
-#include "..\include\TSP3Opt.h"
-#include "..\include\RouteUtils.h"
-#include "..\include\Utils.h"
+#include "../include/TSP3Opt.h"
+#include "../include/RouteUtils.h"
+#include "../include/Utils.h"
 #include <map>
 #include <algorithm>
 #include <iostream>

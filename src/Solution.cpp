@@ -1,4 +1,4 @@
-#include "..\include\Solution.h"
+#include "../include/Solution.h"
 #include <iostream>
 #include <algorithm>
 using namespace std;

@@ -1,10 +1,10 @@
-#include "..\include\Problem.h"
-#include "..\include\Solution.h"
-#include "..\include\Reader.h"
-#include "..\include\Solomon.h"
-#include "..\include\RouteUtils.h"
-#include "..\include\Utils.h"
-#include "..\include\VNS.h"
+#include "../include/Problem.h"
+#include "../include/Solution.h"
+#include "../include/Reader.h"
+#include "../include/Solomon.h"
+#include "../include/RouteUtils.h"
+#include "../include/Utils.h"
+#include "../include/VNS.h"
 #include <iostream>
 #include <chrono> 
 #include <string>

@@ -1,7 +1,7 @@
-#include "..\include\VNS.h"
-#include "..\include\Utils.h"
-#include "..\include\TSP3Opt.h"
-#include "..\include\RouteUtils.h"
+#include "../include/VNS.h"
+#include "../include/Utils.h"
+#include "../include/TSP3Opt.h"
+#include "../include/RouteUtils.h"
 #include <iostream>
 #include <algorithm>
 #include <chrono>

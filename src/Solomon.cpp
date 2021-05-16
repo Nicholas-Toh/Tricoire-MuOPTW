@@ -1,4 +1,4 @@
-#include "..\include\Solomon.h"
+#include "../include/Solomon.h"
 #include <algorithm>
 #include <limits>
 #include <iostream>
